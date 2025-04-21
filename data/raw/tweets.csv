@@ -1,0 +1,11 @@
+tweet_text,sentiment
+"I love this product! It's amazing.",positive
+"This is the worst experience I've ever had.",negative
+"Just okay, nothing special.",neutral
+"Absolutely fantastic service!",positive
+"Terrible customer support.",negative
+"Will definitely recommend to my friends!",positive
+"Not worth the money.",negative
+"Pretty good overall.",neutral
+"Best purchase I've made this year!",positive
+"Very disappointed with the quality.",negative
